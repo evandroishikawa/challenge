@@ -13,6 +13,24 @@ Este desafio foi criado para avaliar como você lida com um cenário comum no de
   - **1 hora** para resolver o desafio
   - **30 minutos** para uma conversa técnica, onde você irá **explicar as decisões que tomou** e comentar como pensou a solução
 
+### 🧩 O que precisa ser feito?
+
+Sua missão é construir uma **página de evento da Sympla**, como o seguinte [exemplo](https://ngm23z-5173.csb.app/) com os seguintes elementos:
+
+![example](image.png)
+
+### O que é esperado?
+
+- [ ] **Imagem de destaque** do evento
+- [ ] **Título do evento**
+- [ ] **Descrição**
+- [ ] **Botão de compra de ingresso**
+  - permitir selecionar quantidade
+- [ ] **Footer** com:
+  - 4 links fictícios
+  - Logo da Sympla novamente
+
+
 ---
 
 ## 💻 Ambiente
@@ -20,6 +38,7 @@ Este desafio foi criado para avaliar como você lida com um cenário comum no de
 - O projeto já vem configurado com:
   - **React**
   - **Typescript**
+  - **CSS**
 
 - Sinta-se à vontade para usar qualquer outra biblioteca adicional (ex: ícones, helpers), desde que mantenha o foco da tarefa
 
@@ -30,23 +49,6 @@ Este desafio foi criado para avaliar como você lida com um cenário comum no de
 - Usar o **Google**, **StackOverflow**, **MDN**, ou qualquer outra ferramenta de apoio
 - Adaptar o layout com base na sua experiência
 - Melhorar a experiência visual se tiver tempo (ex: responsividade, animações simples, etc.)
-
----
-
-## 🧩 O que precisa ser feito
-
-Sua missão é construir uma **página de evento da Sympla**, com os seguintes elementos:
-
-### Componentes esperados:
-
-- **Imagem de destaque** do evento
-- **Título do evento**
-- **Descrição**
-- **Botão de compra de ingresso**
-  - permitir selecionar quantidade
-- **Footer** com:
-  - 4 links fictícios
-  - Logo da Sympla novamente
 
 ---
 
