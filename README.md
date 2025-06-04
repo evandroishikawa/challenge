@@ -30,7 +30,6 @@ Sua missão é construir uma **página de evento da Sympla**, como o seguinte [e
   - 4 links fictícios
   - Logo da Sympla novamente
 
-
 ---
 
 ## 💻 Ambiente
@@ -44,7 +43,7 @@ Sua missão é construir uma **página de evento da Sympla**, como o seguinte [e
 
 ---
 
-## 🌐 Você pode...
+## 🌐 Você pode
 
 - Usar o **Google**, **StackOverflow**, **MDN**, ou qualquer outra ferramenta de apoio
 - Adaptar o layout com base na sua experiência
@@ -82,7 +81,7 @@ Utilize o endpoint abaixo para obter os dados do evento:
 
 📡 [`https://run.mocky.io/v3/6a673775-d91a-4805-b4a0-ac23bf76aecd`](https://run.mocky.io/v3/6a673775-d91a-4805-b4a0-ac23bf76aecd)
 
-### Exemplo da resposta:
+### Exemplo da resposta
 
 ```json
 {
