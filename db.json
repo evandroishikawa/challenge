@@ -1,0 +1,11 @@
+{
+  "events": [
+    {
+      "title": "Festival de Música Independente",
+      "description": "Um festival com as melhores bandas do cenário alternativo.",
+      "image": "https://images.sympla.com.br/671bf74dd5ca8-lg.png",
+      "price": 4990,
+      "available": true
+    }
+  ]
+}
